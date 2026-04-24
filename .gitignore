@@ -1,0 +1,11 @@
+# Python cache / bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development database
+db.sqlite3
+
+# Virtual environments
+.venv/
+venv/

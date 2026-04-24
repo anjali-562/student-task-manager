@@ -1,0 +1,11 @@
+body {
+    min-height: 100vh;
+}
+
+.card {
+    border-radius: 0.8rem;
+}
+
+.list-group-item {
+    border-bottom: 1px solid #f0f0f0;
+}
